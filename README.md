@@ -1,2 +1,2 @@
 # RustWork2019
-The beginnings of my rust work
+The beginnings of my journey into learning rust, used to watch my progress as I learn.
