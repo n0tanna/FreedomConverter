@@ -1,4 +1,4 @@
-Freedom Converter
+**Freedom Converter**
 
 Version 0
 
